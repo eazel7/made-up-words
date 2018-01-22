@@ -1,0 +1,31 @@
+{
+  "name": "made-up-words",
+  "version": "1.0.0",
+  "description": "Made up words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eazel7/made-up-words.git"
+  },
+  "keywords": [
+    "words",
+    "spanish",
+    "english",
+    "french",
+    "swahili",
+    "german",
+    "latin",
+    "hawaiian",
+    "random",
+    "generator"
+  ],
+  "author": "Diego Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eazel7/made-up-words/issues"
+  },
+  "homepage": "https://github.com/eazel7/made-up-words#readme"
+}
